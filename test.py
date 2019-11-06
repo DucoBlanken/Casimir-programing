@@ -6,7 +6,7 @@ def circum(r):
 
 
 def area(r):
-	"""een conflicterende docstring""" 
+	"""een conflicterende docstring MIJN CODE IS BELANGRIJKER""" 
 	return 3.14*r**2
 
 print('Lets kill this code')
