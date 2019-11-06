@@ -6,5 +6,6 @@ def circum(r):
 
 
 def area(r):
+	"""een conflicterende docstring""" 
 	return 3.14*r**2
 
